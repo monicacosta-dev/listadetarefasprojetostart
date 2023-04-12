@@ -49,3 +49,18 @@ Regras de Negócio: Nossas regras que irão seguir
 Tecnólogia utilizadas:
  - Java;
  - Mysql
+
+### Passos para criação do projeto 👣
+ - Criação do banco de Dados ✔️
+ - Criação das classed de modelo ✔️
+ - Criação da conexao com o banco de dados ✔️
+ - Criação das classes de controle (Acesso aos dados do banco )
+    - Criação da tela principal
+ - Criação do CellRederer Prazo
+	- Criação do CellRederer Editar e Deletar
+    - Criação da tela de Cadastro do Projeto
+    - Criação da tela principal de tarefa
+ - Implementação dos Eventos
+    - Validações
+ - Ajustes finais
+ - Teste da aplicação
